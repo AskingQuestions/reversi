@@ -1,0 +1,22 @@
+{
+	"name": "reversi",
+	"version": "1.0.0",
+	"description": "8 weeks of code Reversi challenge.",
+	"main": "cli.js",
+	"scripts": {
+		"test": "node tester.js \"cli.js\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AskingQuestions/reversi.git"
+	},
+	"author": "Jeremy Frank",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/AskingQuestions/reversi/issues"
+	},
+	"homepage": "https://github.com/AskingQuestions/reversi#readme",
+	"dependencies": {
+		"get-stdin": "^6.0.0"
+	}
+}
