@@ -17,7 +17,7 @@ $ node tester.js cli.js
 ```
 
 ## Executing from command-line
-You can pipe in a json string and it will pipe out the json formated board after it has applied the move.
+You can pipe in a json string and it will pipe out the json formatted board after it has applied the move.
 ```
 $ node cli.js
 ```
